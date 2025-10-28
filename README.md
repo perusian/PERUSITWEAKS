@@ -225,20 +225,17 @@ python main.py
 <div align="center">
 
 ### 🎨 Main Interface
-<img src="https://via.placeholder.com/800x500/1a1a1a/ffffff?text=PERUSITWEAKS+Main+Interface" alt="Main Interface" width="80%"/>
+<img src="https://cdn.discordapp.com/attachments/1431304375069839461/1432633288165687368/A9389889-1059-4F52-B46F-5300CA65857F.png?ex=6901c338&is=690071b8&hm=651ad3c1e20f171e18090ff796e78047fc42d67edb8b90088b18581a62539096&" alt="Main Interface" width="80%"/>
 
 ### ⚙️ Optimization Tabs
-<img src="https://via.placeholder.com/800x500/2d2d2d/ffffff?text=Optimization+Tabs" alt="Optimization Tabs" width="80%"/>
-
-### 📊 Progress Monitoring
-<img src="https://via.placeholder.com/800x500/3d3d3d/ffffff?text=Progress+Monitoring" alt="Progress Monitoring" width="80%"/>
+<img src="https://cdn.discordapp.com/attachments/1431304375069839461/1432633352984199308/F037E5E1-1BB3-4B85-BBE4-CBCA7124E7F7.png?ex=6901c348&is=690071c8&hm=137153cd720b68bd0559b304b7fe6a1eb229af68acce90309b96eddf42a65597&" alt="Optimization Tabs" width="80%"/>
 
 ### 🔄 Revert Functionality
-<img src="https://via.placeholder.com/800x500/4d4d4d/ffffff?text=Revert+Functionality" alt="Revert Functionality" width="80%"/>
+<img src="https://cdn.discordapp.com/attachments/1431304375069839461/1432633727787335720/66494886-61D4-4BA5-9972-91B9B92D7CE8.png?ex=6901c3a1&is=69007221&hm=101bb1ecd3c515471273e720f17be23144bbf4c8a1a8135c6d9b4e46059becb5&" alt="Revert Functionality" width="80%"/>
 
 </div>
 
-> **📸 Note**: Screenshots will be updated with actual application images in future releases. These placeholders demonstrate the modern, dark-themed interface.
+> **📸 Note**: Screenshots of the actual application interface.
 
 ## 🏗️ Building from Source
 
