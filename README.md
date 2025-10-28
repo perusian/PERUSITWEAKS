@@ -29,6 +29,7 @@
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 - [📞 Contact](#-contact)
+- [💰 Support](#-support)
 - [⚖️ Disclaimer](#️-disclaimer)
 
 ## 🎮 Project Description
@@ -388,6 +389,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Monitor system stability after applying changes**
 - **Keep backups of important data**
 - **Use at your own risk**
+
+## 💰 Support
+
+If you find this project helpful, consider supporting the development:
+
+- **Bitcoin** 🪙: `bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh`
+- **Ethereum** ⛽: `0xAb5801a7D398351b8bE11C439e05C5B3259aeC9B`
 
 ---
 
